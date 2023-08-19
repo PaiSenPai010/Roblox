@@ -1,9 +1,9 @@
 local Title = "Ctto: MikeCash - Please visit the website."
 
-local API_HOST = "s1.wayauth.com" -- s1.wayauth.com, s2.wayauth.com, s3.wayauth.com, s4.wayauth.com, s5.wayauth.com
-local LINKVERTISE_ID = 350639 -- Change me
-local LINKVERTISE_COUNT = 5 -- Change me
-local TOKEN_EXPIRE_TIME = 43200 -- Seconds
+local API_HOST = "s5.wayauth.com" -- s1.wayauth.com, s2.wayauth.com, s3.wayauth.com, s4.wayauth.com, s5.wayauth.com
+local LINKVERTISE_ID = 350639 
+local LINKVERTISE_COUNT = 5 
+local TOKEN_EXPIRE_TIME = 3600 
 
 local Task = {}
 Task.__index = Task
